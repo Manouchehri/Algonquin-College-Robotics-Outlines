@@ -1,3 +1,3 @@
 [![DOI](https://zenodo.org/badge/18550/Manouchehri/Algonquin-College-Robotics-Outlines.svg)](https://zenodo.org/badge/latestdoi/18550/Manouchehri/Algonquin-College-Robotics-Outlines)
 
-This repository contains course outlines from the Electro-Mechanical Engineering Technician (Robotics) at Algonquin College during 2012 to 2014. [Click here to download all the .PDFs as a .zip.](https://github.com/Manouchehri/Algonquin-College-Robotics-Outlines/archive/v1.zip)
+This repository contains course outlines from the Electro-Mechanical Engineering Technician (Robotics) program at Algonquin College during 2012 to 2014. [Click here to download all the .PDFs as a .zip.](https://github.com/Manouchehri/Algonquin-College-Robotics-Outlines/archive/v1.zip)
